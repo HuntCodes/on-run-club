@@ -1,0 +1,5 @@
+# Expo-specific ignores
+node_modules/
+.expo/
+.expo-shared/
+.env
