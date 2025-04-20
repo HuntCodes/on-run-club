@@ -3,7 +3,6 @@
     "name": "OnRunClub",
     "slug": "onrunclub",
     "version": "1.0.0",
-    "sdkVersion": "32.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
